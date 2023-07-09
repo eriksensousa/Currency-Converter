@@ -12,6 +12,6 @@ Talking about the features of this system, this python application is designed t
 
 *Module Used* 
 
-> Tkinter() - It is a standard Python interface to the Tk GUI toolkit shipped with Python. 
-> Python with tkinter outputs the fastest and easiest way to create the GUI applications. 
-> Also, the design of this system is pretty simple so that the user won’t get any difficulties while working on it.
+> - Tkinter() - It is a standard Python interface to the Tk GUI toolkit shipped with Python. 
+> - Python with tkinter outputs the fastest and easiest way to create the GUI applications. 
+> - Also, the design of this system is pretty simple so that the user won’t get any difficulties while working on it.
