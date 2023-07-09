@@ -1,4 +1,4 @@
-# Currency-Converter
+# Currency Converter
 
 Project: Currency Converter 
 
@@ -14,6 +14,8 @@ Here, the user has to type themselves for the currency unit while conversion.
 > - In this app, the user can type the unit of currency for converting and enter the amount to convert, then see the result of the conversion. 
 > - The app also includes a manifest file allowing the app to work offline. 
 > - Also, this project includes a lot of JavaScript for making validations to certain parts of the project.
+#
+#
 
 
 # Project Update: Simple Currency Converter In Python
