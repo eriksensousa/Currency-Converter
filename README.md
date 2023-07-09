@@ -8,7 +8,7 @@ This project is a GUI application which converts Currency from one unit to anoth
 
 *About system*
 
-Talking about the features of this system, this python application is designed to convert entered numbers from one system/unit to other system/unit and it is also capable of handling all types of exceptions. 
+> Talking about the features of this system, this python application is designed to convert entered numbers from one system/unit to other system/unit and it is also capable of handling all types of exceptions. 
 
 *Module Used* 
 
