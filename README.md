@@ -1,6 +1,4 @@
-# Currency Converter
-
-Project: Currency Converter 
+# Project: Currency Converter 
 
 The Simple Currency Converter is a simple project developed using HTML, CSS, and JavaScript. 
 
