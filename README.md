@@ -14,8 +14,9 @@ Here, the user has to type themselves for the currency unit while conversion.
 > - Also, this project includes a lot of JavaScript for making validations to certain parts of the project.
 #
 #
-
-
+#
+#
+#
 # Project Update: Currency Converter In Python
 
 The Currency converter is a simple project developed using Python. This project is an interesting useful project.
@@ -34,4 +35,4 @@ This project is a GUI application which converts Currency from one unit to anoth
 #
 #
 #
-#challengeoneconversorbr5
+
